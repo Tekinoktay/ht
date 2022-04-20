@@ -1,2 +1,2 @@
-# ht
-Hürser Tekinoktay Futbol Beşiktaş
+# Hürser Tekinoktay
+Türk Futbolu ve Beşiktaş
